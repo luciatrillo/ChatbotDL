@@ -9,6 +9,9 @@
 - si
 - ok
 - okay
+- yep
+- oh yeah
+- affirmative
 
 ## intent:deny
 - no
@@ -19,6 +22,12 @@
 - noope
 - do you have something else
 - no this does not work for me
+- hell no
+- no way
+- nuh uh
+- no way jose
+- never
+- please show me something else
 
 
 ## intent:out_of_scope
@@ -151,6 +160,7 @@
 - Look in IMDB for [Steve Martin](actor) films
 - Look in IMDB for [Keira Knightley](actor) movies
 
+
 ## intent:find_movie_release_date
 - When was released [Die Hard](movie)?
 - When [Alien](movie) came out?
@@ -276,62 +286,6 @@
 - hi i want to the top rated [Film-Noir](genre)
 - hello i want to the top rated [action](genre)
 
-## intent:find_movie_rankings_by_actor
-- What is the best movie of [Lauren Bacall](actor)? 
-- Give me the best movies of [James Dean](actor)
-- What is the ranking with [Judy Garland](actor) movies?
-- I want to know the best movie of [Amy Hathaway](actor)
-- Which are the best movies of [Colt 45](actor)?
-- Find me the best movies with [Aadil](actor)
-- May I know [Balbino Lacosta](actor) most well-known movies?
-- Find me [Rua Acorn](actor) top films
-- Tell me [Ana Acosta](actor) top movies
-- I wanna know [Tony Acone](actor) most important films
-- I wish to know [Larissa Laenne](actor) best films
-- Most important movies that [Julia Roberts](actor) starred
-- Which ones are [Scarlett Johansson](actor) top performances?
-- I am curious about [Joaquin Phoenix](actor) best interpretations
-- I am interested in [Chris Pratt](actor) best acting
-- I am wondering  which ones are [Amy Adams](actor) top films
-- Could you tell me [Johnny Depp](actor) movie ranking?
-- May I know [Keira Knightley](actor) best movies?
-- I am so curious about [Suraj Sharma](actor) top movies
-- I really want to know some movies of [Rafe Spall](actor)
-- Where did [Prabhas](actor) appear?
-- In which famous movies did [Ramya Krishnan](actor) appear?
-- Where did [Kang-ho Song](actor) act?
-- Tell me [Yeo-jeong Jo](actor) film ranking
-- I am curious about [Ji-min Han](actor) ranking of movies
-- Which are [Penélope Cruz](actor) most prominent movies
-- I need the most famous films of [Hugo Silva](actor)
-- What is the best movie of [Adam Driver](actor)? 
-- Give me the best movies of [Linda Powell](actor)
-- What is the ranking with [Joanne Tucker](actor) movies?
-- I want to know the best movie of [Emilia Clarke](actor)
-- Which are the best movies of [Emilia Clarke](actor)?
-- Find me the best movies with [Kang-woo Kim](actor)
-- May I know [Jung-ah Park](actor) most well-known movies?
-- Find me [Constance Wu](actor) top films
-- Tell me [Gemma Chan](actor) top movies
-- I wanna know [Araya A. Hargate](actor) most important films
-- I wish to know [Will Smith](actor) best films
-- Most important movies that [Tatyana Ali](actor) starred
-- Which ones are [Joseph Marcell](actor) top performances?
-- I am curious about [Regina King](actor) best interpretations
-- I am interested in [Halle Berry](actor) best acting
-- I am wondering  which ones are [Pam Grier](actor) top films
-- Could you tell me [Whoopi Goldberg](actor) movie ranking?
-- May I know [Chris Pine](actor) best movies?
-- I am so curious about [Zoe Saldana](actor) top movies
-- I really want to know some movies of [Zoë Kravitz](actor)
-- Where did [Shailene Woodley](actor) appear?
-- In which famous movies did [Priyanka Chopra](actor) appear?
-- Where did [Alexandra Daddario](actor) act?
-- Tell me [Zendaya](actor) film ranking
-- I am curious about [Yifei Liu](actor) ranking of movies
-- Which are [Meryl Streep](actor) most prominent movies?
-- I need the most famous films of [Heather Matarazzo](actor)
-
 ## intent:thanks
 - Thanks
 - Thank you
@@ -348,5 +302,7 @@
 - amazing, thanks
 - cool, thanks
 - cool thank you
+- appreciate it!
+- thnks
 
 
